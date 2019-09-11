@@ -1,3 +1,5 @@
+Basic Quiz App using React and Material UI as React component. Work in progress
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
