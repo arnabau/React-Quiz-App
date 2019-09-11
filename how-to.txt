@@ -1,0 +1,2 @@
+npx create-react-app .	-> 
+npm i material-ui 	-> Material UI as React component
